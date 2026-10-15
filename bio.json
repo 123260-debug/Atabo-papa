@@ -1,0 +1,44 @@
+{
+  "intro": [
+    {
+      "ja": "ソニーのプログラミング・ロボット学習キット「KOOV」を使って、あたぼうがプログラミングとロボット制作に挑戦するシリーズ。6歳で初めてブロックに触れた第1回から、8歳の第5回まで、その歩みを1本ずつ記録しています。",
+      "en": "A series in which Atabou takes on programming and robot building with Sony's KOOV learning kit. From the first episode at age 6, when he touched the blocks for the first time, to the fifth at age 8, each video records his steps."
+    },
+    {
+      "ja": "ブロックで形を作り、プログラムでロボットを動かし、センサーと条件分岐でLEDを制御する。回を追うごとに、挑戦の内容が少しずつ本格的になっていきます。",
+      "en": "He builds with blocks, moves the robot with a program, and controls an LED with a sensor and a condition. With each episode, the challenge becomes a little more serious."
+    }
+  ],
+  "timeline": [
+    {
+      "label": "2015.11.23",
+      "ja": "チャンネル開設(あたぼう5歳)",
+      "en": "Channel opened (Atabou, age 5)"
+    },
+    {
+      "label": "AGE 6",
+      "ja": "#1〜#3 KOOVに初挑戦。組み立てから、プログラムで動かすところまで",
+      "en": "#1-#3 First time with KOOV. From building to making it move with a program"
+    },
+    {
+      "label": "AGE 7",
+      "ja": "#4 より複雑な組み立てとプログラミングの課題へ",
+      "en": "#4 More complex building and programming challenges"
+    },
+    {
+      "label": "2019.10.22",
+      "ja": "#5 AGE 8。フォトリフレクターの数値を検証し、LEDを制御する",
+      "en": "#5 Age 8. Testing photo reflector values and controlling an LED"
+    },
+    {
+      "label": "AGE 15",
+      "ja": "新チャンネル「あたぼうチャンネル」を立ち上げ",
+      "en": "Started the new channel \"Atabou Channel\""
+    },
+    {
+      "label": "2026.10.15",
+      "ja": "公式サイトオープン",
+      "en": "The official site is now open"
+    }
+  ]
+}
